@@ -9,7 +9,7 @@ depuis votre téléphone.
 
 | Application | Version | Description |
 |---|---|---|
-| [Billy](Billy/) | 1.4 | Suivi des prélèvements mensuels et des dépenses par carte, à une ou plusieurs personnes. |
+| [Billy](Billy/) | 1.3.1 | Suivi des prélèvements mensuels et des dépenses par carte, à une ou plusieurs personnes. |
 
 ## Installer une application
 
