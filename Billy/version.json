@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3",
+  "versionCode": 7,
+  "versionName": "1.4",
   "date": "2026-09-23",
-  "apk": "Billy-1.3.apk",
-  "notes": "Catégories de dépense réglables : nom, couleur, ordre et retrait depuis les paramètres."
+  "url": "https://github.com/v1nceB/APKlyst/raw/main/Billy/Billy-1.4.apk",
+  "notes": "Billy vérifie désormais une fois par mois si une version plus récente a été publiée, et vous la propose."
 }
