@@ -2,6 +2,6 @@
   "versionCode": 15,
   "versionName": "1.3.7",
   "date": "2026-10-16",
-  "url": "https://github.com/v1nceB/APKlyst/raw/main/Billy/Billy-1.3.7.apk",
+  "url": "https://github.com/v1nceB/APKlyst/raw/main/Billy/Billy.apk",
   "notes": "Nouveau : la base peut être chiffrée par une phrase secrète, depuis les paramètres. Billy ne plante plus sous Android 7. Un paiement saisi depuis le widget sans réseau est gardé et envoyé plus tard. Deux téléphones qui partagent une base n'effacent plus leurs saisies l'un l'autre. Corriger le montant d'un prélèvement pointé met le solde à jour. Le propriétaire d'une base est prévenu quand un nouveau téléphone l'ouvre."
 }

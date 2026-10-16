@@ -6,10 +6,17 @@ Elle ne stocke rien en ligne : vos données vivent dans **un fichier que vous ch
 sur votre Google Drive ou sur votre téléphone. Posé sur Drive et partagé, ce fichier permet
 à plusieurs personnes de suivre le même budget, chacune depuis son téléphone.
 
+## Télécharger
+
+### **[⬇ Télécharger Billy](https://github.com/v1nceB/APKlyst/raw/main/Billy/Billy.apk)**
+
+Version 1.3.7 — Android 7.0 ou plus récent. Ce lien donne toujours la dernière version.
+
 ## Installation
 
-1. Téléchargez la dernière `Billy-x.y.apk` depuis ce dépôt.
-2. Ouvrez le fichier depuis votre téléphone. Android demandera l'autorisation d'installer
+1. Depuis votre téléphone, touchez **« Télécharger Billy »** ci-dessus. Le navigateur prévient
+   que ce type de fichier peut être dangereux : choisissez **« Télécharger quand même »**.
+2. Ouvrez le fichier téléchargé. Android demandera l'autorisation d'installer
    des applications provenant de cette source : elle ne concerne que l'application qui ouvre
    le fichier (Drive, Fichiers, votre navigateur) et se donne une seule fois.
 3. Un avertissement de Play Protect s'affiche, l'application ne passant pas par le Play Store.

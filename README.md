@@ -13,7 +13,8 @@ depuis votre téléphone.
 
 ## Installer une application
 
-1. Ouvrez le dossier de l'application et téléchargez son fichier `.apk`.
+1. Ouvrez le dossier de l'application et touchez son lien **« Télécharger »**. Le navigateur
+   prévient que ce type de fichier peut être dangereux : choisissez « Télécharger quand même ».
 2. Ouvrez le fichier depuis votre téléphone. Android demandera l'autorisation d'installer
    des applications provenant de cette source : elle ne concerne que l'application qui ouvre
    le fichier — Drive, Fichiers, votre navigateur — et ne se donne qu'une fois.
